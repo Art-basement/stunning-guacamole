@@ -15,6 +15,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ###### Resources
 
+- [ ] Project Manager
+- [ ] Business Analyst
+- [x] Technical Writer
+- [ ] Developers
+
 # Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
